@@ -1,3 +1,4 @@
 # 👋 Olá, meu nome é Luis Davi!
-- 👨‍🎓 Acadêmico em Tecnologia da Informação- UFERSA
+- 👨‍🎓 Bacharel  em Tecnologia da Informação - UFERSA
+- 👨‍🎓 Acadêmico em Engenharia de Computação - UFERSA
 - 🚀 Sempre avançando, sempre evoluindo. 
